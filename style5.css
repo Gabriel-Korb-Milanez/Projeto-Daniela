@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(66, 189, 66);
+}
+main{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid;
+    border-radius: 20px;
+    border-color: rgb(65, 139, 4);
+    background-color: rgb(1, 117, 1);
+    text-align: center;
+    height: 900px;
+    width: 1850px;
+    margin-left: 20px;
+    margin-top: 30px;
+    position: relative;
+}
+#ajuda1{
+    background-color: rgb(1, 117, 1);
+    border: 3px solid;
+    border-radius: 100px;
+    border-color: rgb(65, 139, 4);
+    color: white;
+    height: 100px;
+    width: 400px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#ajuda2{
+    background-color: rgb(1, 117, 1);
+    border: 3px solid;
+    border-radius: 100px;
+    border-color: rgb(65, 139, 4);
+    color: white;
+    height: 100px;
+    width: 400px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#ajuda3{
+    background-color: rgb(1, 117, 1);
+    border: 3px solid;
+    border-radius: 100px;
+    border-color: rgb(65, 139, 4);
+    color: white;
+    height: 100px;
+    width: 400px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#ajuda4{
+    background-color: rgb(1, 117, 1);
+    border: 3px solid;
+    border-radius: 100px;
+    border-color: rgb(65, 139, 4);
+    color: white;
+    height: 100px;
+    width: 400px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#ajuda5{
+    background-color: rgb(1, 117, 1);
+    border: 3px solid;
+    border-radius: 100px;
+    border-color: rgb(65, 139, 4);
+    color: white;
+    height: 80px;
+    width: 400px;
+    cursor: pointer;
+    margin-top: 70px;
+}
+#antes{
+    height: 600px;
+    position: absolute;
+    top: 215px;
+    right: 1300px;
+}
+#depois{
+    height: 600px;
+    position: absolute;
+    top: 215px;
+    left: 1300px;
+}

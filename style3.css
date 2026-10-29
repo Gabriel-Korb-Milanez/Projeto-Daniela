@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(66, 189, 66);
+   
+}
+main{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid;
+    border-radius: 750px;
+    border-color: rgb(65, 139, 4);
+    background-color: rgb(1, 117, 1);
+    text-align: center;
+    height: 200px;
+    width: 1500px;
+    margin-top: 300px;
+    margin-left: 230px;
+}
+#b4{
+    background-color: rgb(1, 117, 1);
+    border: 3px solid;
+    border-radius: 100px;
+    border-color: rgb(65, 139, 4);
+    color: white;
+    height: 40px;
+    width: 200px;
+    cursor: pointer;
+    margin-left: 895px;
+    margin-top: 80px;
+}
